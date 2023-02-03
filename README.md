@@ -1,4 +1,4 @@
-# Group YY - {Short snappy Title of your project}
+# Group 16 - The Expensive Reality: an Analysis
 
 - Your title can change over time.
 
@@ -16,8 +16,10 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Robert Yacovelli: I am a second-year DATA Major. I am interested in Economic topics and I enjoy learning new ways to communicate through numbers and eye-catching visuals.
+
 - Person 2: one sentence about you!
+
 - Person 3: one sentence about you!
 
 ## Images

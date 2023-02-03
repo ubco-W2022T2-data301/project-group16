@@ -1,7 +1,6 @@
 # Project Vision
 
- >"As a team, we wish to transform data into a valuable asset that drives progress and success. By leveraging technology, expertise, and collaboration, we aim to uncover trends that provide a deeper understanding and meaning to our data. Ultimately we wish to succeed by developing, strengthening, and deepening our understanding of the tools and techniques used to produce a high-quality analysis".
-
+ > "As a group, we wish to leverage our data by utilizing data analysis technology, and extensive teamwork alongside individual skills. We wish to reveal meaningful information in our data through insightful analyses which will serve in determining any relationships. Simply put, we will succeed by refining our skills and by always looking for ways to dig deeper into our data, eventually producing a polished finished product."
 
 ## Contracted Grade
 
