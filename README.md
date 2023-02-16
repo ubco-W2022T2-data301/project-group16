@@ -20,7 +20,7 @@ Altogether, this dataset from Numbeo's crowd-sourced website brings over 50 vari
 
 - **Oliver Medgyesi**: I am a second-year Computer Science Major. I'm a dedicated and analytical individual with an interest in mathematics and programming. I try to continuously expand my knowledge and I enjoy learning new things.
 
-- **Person 3**: one sentence about you!
+- **Kenta Selim Ishdia**: I am a third year exchange student from a university in Japan. I'm studying data science there. I like both math and programming, but recently I started statistics and really have fun learning it.
 
 ## Images
 
