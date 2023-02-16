@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 - Robert Yacovelli: I am a second-year DATA Major. I am interested in Economic topics and I enjoy learning new ways to communicate through numbers and eye-catching visuals.
 
-- Person 2: one sentence about you!
+- Oliver Medgyesi: I am a second-year Computer Science Major. I'm a dedicated and analytical individual with an interest in mathematics and programming. I try to continously expand my knowledge and I enjoy learning new things.
 
 - Person 3: one sentence about you!
 
