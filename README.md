@@ -24,9 +24,8 @@ Altogether, this dataset from Numbeo's crowd-sourced website brings over 50 vari
 
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/costofliving.jpg" width="100px">
+<img src ="images/costofliving.jpg" width="500px">
 
 ## References
 
