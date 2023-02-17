@@ -1,8 +1,6 @@
 # Group 16 - The Expensive Reality: an Analysis
 
-## Topic/interest in about 150-200 words
-
-{Add your stuff here}
+Our group is interested in researching the cost of living because it is essential for making business, personal, or strategical related decisions. By understanding the cost of living in Kelowna, individuals will be able to plan their finances more accordingly. It is also important for individuals who are seeking new employment opportunities as there will need to be a balanced cost of living or they may need to negotiate an increase in pay for life's demands.
 
 ## Our Dataset
 
