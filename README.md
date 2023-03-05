@@ -1,6 +1,10 @@
-# Group 16 - The Expensive Reality: an Analysis
+# Group 16 - The Expensive Reality: an Analysis of the Global Cost of Living
 
-Our group is interested in researching the cost of living because it is essential for making business, personal, or strategical related decisions. By understanding the cost of living in Kelowna, individuals will be able to plan their finances more accordingly. It is also important for individuals who are seeking new employment opportunities as there will need to be a balanced cost of living or they may need to negotiate an increase in pay for life's demands.
+## Our Topic and Interests
+
+Our group will be examining the economic topic of the cost of living. With our analysis, we wish to understand the current cost to live locally in Kelowna and around the world. Moreover, due to current record-high inflation levels affecting households and individuals more than ever, we hope to examine both the necessities and luxuries of living and establish connections and relationships to find out where consumers are feeling the sting the most. That being said, we think this is an important topic to discuss as both individuals and firms can benefit by planning their finances accordingly which will lead to fewer surprises when it comes time to pay for goods and services. 
+
+In terms of specific questions, we would like to know just how affordable it is to live in Kelowna, British Columbia, Canada compared to other cities from around the world, by examining necessities such as food shelter and transportation. We also wish to analyze the cost of luxuries and determine if there are any countries where some items cost significantly more for any reasons such as potential tariffs or trade-related reasons. Overall, we aim to provide a competent analysis of the global cost of living. 
 
 ## Our Dataset
 
@@ -22,8 +26,9 @@ Altogether, this dataset from Numbeo's crowd-sourced website brings over 50 vari
 
 ## Images
 
+<img src="images/coins-g118f2fe8b_1920.jpg" width="500" height="240" />
 
-<img src ="images/costofliving.jpg" width="500px">
+[source](https://pixabay.com/photos/coins-calculator-budget-1015125/)
 
 ## References
 
