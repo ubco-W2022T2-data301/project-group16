@@ -16,6 +16,9 @@ The data was gathered by scraping Numbeo's website and according to the descript
 
 Altogether, this dataset from Numbeo's crowd-sourced website brings over 50 variables of consumer goods, services and other metrics such as personal monthly income from over 4500 cities worldwide. This dataset is certain to provide valuable insight into what makes it: an expensive reality.
 
+### Sub Dataset
+The [Canada Cities Database](https://simplemaps.com/data/canada-cities) offers over 7,986 cities and towns from all provinces and territories in Canada. It was built from the ground up by **simple maps** using authoritative sources such as Statistics Canada. 
+
 ## Team Members
 
 - **Robert Yacovelli**: I am a second-year DATA Major. I am interested in Economic topics and I enjoy learning new ways to communicate through numbers and eye-catching, informative visuals.
