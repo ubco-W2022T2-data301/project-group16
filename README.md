@@ -37,5 +37,8 @@ The [Canada Cities Database](https://simplemaps.com/data/canada-cities) offers o
 
 >[Global Cost of Living Dataset - Kaggle](https://www.kaggle.com/datasets/mvieira101/global-cost-of-living)
 
+>[Canada Cities Database - simple maps](https://simplemaps.com/data/canada-cities)
+
+
 
 
