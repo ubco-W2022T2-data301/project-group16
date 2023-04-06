@@ -8,7 +8,7 @@ def load_and_process(url_or_path_to_csv_file):
     
 # Two method chains, split into two as mentioned during feedback.
 
-    canada_df = df.query('Country == "Canada"')
+    canada_df = df.query('country == "Canada"')
     canada_df = (canada_df
              .rename(columns={'x48 (apartment 1BR city center)': 'apartment 1BR city center', 'x49 (apartment 1BR outside center)': 'apartment 1BR outside center', 
                               'x50 (apartment 3BR city center)': 'apartment 3BR city center', 'x51 (apartment 3BR outside center)': 'apartment 3BR outside center',
