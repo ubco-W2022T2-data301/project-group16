@@ -28,6 +28,7 @@ The [Canada Cities Database](https://simplemaps.com/data/canada-cities) offers o
 - **Kenta Selim Ishdia**: I am a third year exchange student from a university in Japan. I'm studying data science there. I like both math and programming, but recently I started statistics and really have fun learning it.
 
 ## Images
+<img src="images/DashboardRobert.png"/>
 
 <img src="images/coins-g118f2fe8b_1920.jpg" width="500" height="240" />
 
