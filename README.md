@@ -29,7 +29,7 @@ The [Canada Cities Database](https://simplemaps.com/data/canada-cities) offers o
 
 ## Images
 <img src="images/DashboardRobert.png"/>
-<img src ="images/OliverDashboard.jpg"/>
+<img src ="images/OliverDashboard.png"/>
 <img src="images/coins-g118f2fe8b_1920.jpg" width="500" height="240" />
 
 [source](https://pixabay.com/photos/coins-calculator-budget-1015125/)
