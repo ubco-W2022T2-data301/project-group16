@@ -29,14 +29,14 @@
 
 ### 2.3 
 
-## Research Question 3 and Results:
+## Research Question 3 and Results: How the cost of other stuff, which are considered not necessary for living, different between cities in Canada?
 
-### 3.1
-
-
-### 3.2
+### 3.1: Is there any factors for that?
 
 
-### 3.3 
+### 3.2: Do values of daily necessities affects the value of other stuff?
+
+
+### 3.3: Which luxuary shows the general cost of luxuaries the best?
 
 ## Conclusion
