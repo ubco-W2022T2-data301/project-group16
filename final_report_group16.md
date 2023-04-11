@@ -1,7 +1,7 @@
 # Final Report - Group 16
 
-## **Introduction** TODO
-A short paragraph introducing your project to the audience and a motivation for why this project is important. It’s fine to say your group has an interest in this topic and were keen to explore it more.
+## **Introduction**
+Our group examined the global cost of living. Within our analysis, we wished to understand the current cost to live locally in Kelowna and around the world. Due to record high inflation in 2022/23 seen throughout the world, our group was interested in seeing if we could find out where it is considered unaffordable to live and what categories influence affordability the most. Moreover, our group was interested in necessities such as food, housing and transportation costs alongside luxuries such as restaurants and accommodation. Altogether we wish to examine how the cost of living varies city-to-city/country-to-country, where the cost of living is lower/higher and finally why this is the case.
 
 ## **Exploratory Data Analysis** TODO
 A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
