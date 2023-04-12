@@ -1,10 +1,15 @@
 # Final Report - Group 16
-
 ## **Introduction**
 Our group examined the global cost of living. Within our analysis, we wished to understand the current cost to live locally in Kelowna and around the world. Due to record high inflation in 2022/23 seen throughout the world, our group was interested in seeing if we could find out where it is considered unaffordable to live and what categories influence affordability the most. Moreover, our group was interested in necessities such as food, housing and transportation costs alongside luxuries such as restaurants and accommodation. Altogether we wish to examine how the cost of living varies city-to-city/country-to-country, where the cost of living is lower/higher and finally why this is the case.
 
-## **Exploratory Data Analysis** TODO
-A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.
+## **Exploratory Data Analysis**
+Here is a summary of the highlights of our group's EDAs:
+
+- In Robert's analysis he used a variety of plots although primarily relying on facet grids to show multiple histograms based on the cost of living indexes and scatter plots to determine where cities rank in terms of affordability. This made it clear to see the distribution of cities ranked according to their indexes. 
+
+- For Oliver's analysis he used...TODO
+
+- In Ken's analysis he utilized...TODO
 
 ## Research Question 1: and Results: *How livable is it in Kelowna compared to other cities globally?*
 
@@ -12,14 +17,14 @@ A summary of the highlights of your EDA, where you can show some visualizations 
 
 ### **1.1:**  *How does the cost of necessities, such as food items, transportation, and shelter vary across different cities as compared to Kelowna, serving as the baseline?*
 
-In order to answer this question I first took all the relevant columns related to food, housing and transportation. I set Kelowna to be the baseline city with an index level set to 100. Any city above or below 100 represents a % change in affordability in that category. 
-![Food,Housing and transport indexes](images/RYplot7.png)
+To answer this question I first took all the relevant columns related to food, housing and transportation. I set Kelowna to be the baseline city with an index level set to 100. Any city above or below 100 represents a % change in affordability in that category. 
+![Food, Housing and transport indexes](images/RYplot7.png)
 
 Here I found that Kelowna is generally more expensive in food and housing while appearing to be cheaper in the transportation category. These visuals also provide a good look at the distribution of the indexes by city. 
 
 ![Weighted Cost of Living Index](images/RYplot8.png)
 
-Answering the research question it is is clear that after plotting the weighted cost of living Kelowna is on the right side of the distribution indicating it is generally more expensive to live in Kelowna as compared to the other cities included in the dataset. 
+Answering the research question it is clear that after plotting the weighted cost of living Kelowna is on the right side of the distribution indicating it is generally more expensive to live in Kelowna as compared to the other cities included in the dataset. 
 
 ### **1.2:** *Can the price of a McDonald's meal tell us anything about the cost of living in a country?*
 
@@ -27,16 +32,16 @@ Serving as a secondary question I wanted to investigate any possible correlation
 
 ![Cost of living indexes vs McDonald's meal](images/RYplot9.png)
 
-According to this plot the cost of a McDonald's meal does not accurately depict the overall affordability in a country since the Weighted Cost of Living Index by country has a correlation value of `0.47`. This is also the case for the Housing and transportation index with an even lower correlation of `0.27`. 
+According to this plot, the cost of a McDonald's meal does not accurately depict the overall affordability in a country since the Weighted Cost of Living Index by country has a correlation value of `0.47`. This is also the case for the Housing and transportation index with an even lower correlation of `0.27`. 
 
-Where the cost of McDonald's meal may provide some estimation on affordability within a country is with the food index given there is a `0.74` correlation value. 
+Where the cost of McDonald's meals may provide some estimation of affordability within a country is with the food index given there is a `0.74` correlation value. 
 
-We can then answer this question by confirming that in this case the price of a McDonald's meal is an okay indicator when it comes to the overall cost of food in a country. 
+We can then answer this question by confirming that in this case, the price of a McDonald's meal is an okay indicator when it comes to the overall cost of food in a country. 
 
 
 ### **1.3:** *How do the prices of different types of transportation (public transit, taxi, personal car) vary across different countries and how does this variation relate to differences in income and cost of living?*
 
- The purpose of this question was to analyze whether or not when the ability to transport yourself (to your job) is cheaper whether or not you earn more. To answer this question I took 5 richer and 5 developing countries and compared the cost of each type of transportation alongside the monthly salary for each country.
+ The purpose of this question was to analyze whether or not when the ability to transport yourself (to your job) is cheaper and whether or not you earn more. To answer this question I took 5 richer and 5 developing countries and compared the cost of each type of transportation alongside the monthly salary for each country.
 
 ![Transport types and monthly salary 10 countries](images/RYplot10.png)
 
