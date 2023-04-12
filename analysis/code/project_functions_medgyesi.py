@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-
+import folium
 
 def load_and_process(url_or_path_to_csv_file):
 
@@ -25,3 +25,15 @@ def load_and_process(url_or_path_to_csv_file):
              .dropna()
 )
     return canada_df
+
+def new_map(df, aff_col, lat_col, lng_col, city_col):
+    map = folium.Map(location=[df[lat_col].mean(), df[lng_col].mean()], zoom_start=5)
+    for index, row in df.iterrows():
+        ratio = row[aff_col]
+        if ratio > 3.0:
+            color = 'red'
+        else:
+            color = 'green'
+        folium.Marker([row[lat_col], row[lng_col]], popup=row[city_col], icon=folium.Icon(color=color)).add_to(map)
+        
+    return map
