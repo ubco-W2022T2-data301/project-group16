@@ -13,7 +13,7 @@ Here is a summary of the highlights of our group's EDAs:
 
 - For **Oliver's** analysis he used barplots to compare multiple cities and their affordability ratios and percentage salaries. Using these plots, he was able to determine which cities were considered affordable, moderate, and expensive in Canada.
 
-- In **Ken's** analysis he utilized...TODO
+- For **Kenta's** analysis, he utilized boxplots to examine whether there were any notable differences in the prices of items when comparing various countries. By utilizing boxplots, he was able to efficiently compare the prices of items across different countries and determine whether there were any significant variations.
 
 ## Research Question 1: and Results: *How livable is it in Kelowna compared to other cities globally?*
 
