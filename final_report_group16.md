@@ -62,15 +62,48 @@ The main takeaway from this plot and the answer to this question was that cheape
 
 ### 2.3 
 
-## Research Question 3 and Results: How the cost of other stuff, which are considered not necessary for living, different between cities in Canada?
+## Research Question 3 and Result:   How the cost of other stuff, which are considered not necessary for living, different between cities in Canada?
 
-### 3.1: Is there any factors for that?
+### Analysis done by **Kenta Selim Ishida** [here](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_ishida.ipynb)
+These 3 following questions helps to answer RQ3, and to get deeper understanding for RQ3. 
+### 3.1: If there are differences, is there any factors for the difference?
+To answer this question, I will first show the bar plots of cost of items categorized by type in various Canadian cities.
+![Expensive Accommodations Barplot](images/IKplot3.png)
+![Entertainment Barplot](images/IKplot4.png)
 
+These visualizations reveal that the costs are different between cities even they are both cities in Canada. Moreover, it is obvious that the disparties are big for some categories, but for some categories the disparties are neligible. We found that there are differences between cities, so we will now find the factors for the differences using heatmap.
+
+![Luxuaries Heatmap](images/IKplot5.png)
+
+The heatmap presented depicts the correlation between each pair of columns within the dataset. The visual representation effectively showcases the strength of correlations between various columns, with notable correlations observed between food and accommodation, food and population, accommodation and density, and entertainment and net salary. These findings suggest that there exist discernible factors contributing to cost discrepancies, and furthermore, that such factors may vary across distinct categories.
 
 ### 3.2: Do values of daily necessities affects the value of other stuff?
 
+To answer this question,  I conducted a comparative analysis between each luxury item and its corresponding necessity within the same category. I have included plots of two remarkable findings that have emerged from my research in this section.
+
+![Accommodations Scatterplot](images/IKplot14.png)
+
+The plot above is a scatter plot of price of accommodations sorted into two categories of inexpensive expensive options with a linear trendline. Here I found the prices of inexpensive accommodations and expensive accommodations are in direct proportion.
+
+![Transportation Scatterplot](images/IKplot13.png)
+
+The plot above is a scatter plot of price of transportation sorted into two categories of inexpensive expensive options with a linear trendline. I personally think this is the most interesting fact I have found in my entire research. Surprisingly, the prices of inexpensive transportation and expensive transportation are in inverse proportion.
+
 
 ### 3.3: Which luxuary shows the general cost of luxuaries the best?
+
+To answer this question, I first plotted correlations between each categories and general cost of luxuaries.
+
+![Luxuaries + General Heatmap](images/IKplot11.png)
+
+The most bottom raw dispicts the correlations that I wanted. Obviously, price of food and accommodation have strong correlation to price of luxuaries in general. Especially, the price of accommodation has correlation of over 0.9, which can be cosidered as a indicator of the price of luxuaries in general. The scatter plot below illustrates the relationship between those two.
+
+![Expensive Accommodatin vs General Luxuaries Scatterplot](images/IKplot12.png)
+
+### Summary RQ3:
+    - There are difference of costs of luxuaries between Canadian cities, and factors vary across categories.
+    - For some categories the price of necessities to the same categories of luxuaries. However, the relations are not the same for all categories.
+    - The price of expensive accommodations can be an indicator of the cost of luxuaries in general.
 
 ## Conclusion TODO
  A brief paragraph that highlights your key results and what you learned from doing this project.
