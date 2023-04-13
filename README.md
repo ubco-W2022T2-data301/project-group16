@@ -33,6 +33,7 @@ The [Canada Cities Database](https://simplemaps.com/data/canada-cities) offers o
 ## Tableau Dashboard Images
 <img src="images/DashboardRobert.png"/>
 <img src ="images/OliverDashboard.png"/>
+<img src="images/DashboardIshida.png"/>
 
 
 
