@@ -7,7 +7,7 @@ Here is a summary of the highlights of our group's EDAs:
 
 - In Robert's analysis he used a variety of plots although primarily relying on facet grids to show multiple histograms based on the cost of living indexes and scatter plots to determine where cities rank in terms of affordability. This made it clear to see the distribution of cities ranked according to their indexes. 
 
-- For Oliver's analysis he used...TODO
+- For Oliver's analysis he used barplots to compare multiple cities and their affordability ratios and percentage salaries. Using these plots, he was able to determine which cities were considered affordable, moderate, and expensive in Canada.
 
 - In Ken's analysis he utilized...TODO
 
@@ -54,13 +54,50 @@ The main takeaway from this plot and the answer to this question was that cheape
 
 ## Research Question 2 and Results:
 
-### 2.1
+ - ### Analysis done by **Oliver Medgyesi** [here](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_medgyesi.ipynb)
 
 
-### 2.2
+### **2.1** *How does the affordability of housing in Canada vary relative to the average monthly net salary. Also, how does Kelowna compare in terms of housing prices compared to other cities in Canada?*
 
+To answer this reasearch question, I created an affordability ratio column inside my dataset to indicate whether a city is considered to be expensive, moderate, or affordable. The classifications of these categories are mentioned inside of my analysis. Kelowna is considered to be rank 18/45 with an affordability ratio of 4.22. This classifies Kelowna as a moderately expensive location for real estate as it is less than 5.5 but greater than 3.0. 
 
-### 2.3 
+---
+
+![Affordability Ratio Plot](images/MPlot7.png)
+
+---
+
+### **2.2** *Overall, is it more affordable to live in the suburbs compared to inside of the city in Canada?*
+
+By calculating the affordability ratio for 1BR and 3BR apartments inside and outside of the city, I was able to conclude that both 1BR and 3BR apartments inside the city are more affordable. 
+
+---
+
+![Affordability Ratio Plot](images/MPlot11.png)
+
+Here are some conclusions I drew from this plot:
+
+- In general, Poperty values tend to be more expensive in suburban areas comapred to the city.
+- Apartments in the city tend to have less demand as there is a lack of space and can be irritabile at times.
+- Living costs also tend to be more expensive inside the city as there are more ammenties and higher utility costs.
+
+---
+
+### **2.3** *What percentage of the average salary in Kelowna is required to afford the current housing prices and how has this changed overtime?*
+
+The purpose of this question was to determine what percentage of the average salary for each city, specifically Kelowna, is required to afford the current housing prices. With this information, we are able to as conclude how much of the excess salary can go towards the extra costs of living such as food, water, electricity, etc. To do this I created a "percentage salary" column which determines how much of the average salary is required to pay a monthly mortgage over a 30 year term. Specifically for Kelowna, the percentage salary/average monthly salary totalled to 15%. This means that 15% of the overall salary must go towards mortgage payments. 
+
+---
+
+![Affordability Ratio Plot](images/MPlot10.png)
+
+---
+Unforuntately our dataset did not contain a year section so I was unable to determine changes overtime for any of my data.  Generally, we can see that most cities are affordable when we approach the market this way. But keep in mind that this is over a 30 year term which will drastically decrease the monthly payments.
+
+### Summary RQ2: 
+     - Kelowna housing is a moderately expensive location to live in Canada.
+     - It is more affordable to live inside the city in Canada.
+     - Over a 30 year term, most cities in Canada can offer an affordable mortgage payment (Less than 30% of your monthly salary towards payments).
 
 ## Research Question 3 and Result:   How the cost of other stuff, which are considered not necessary for living, different between cities in Canada?
 
@@ -105,5 +142,6 @@ The most bottom raw dispicts the correlations that I wanted. Obviously, price of
     - For some categories the price of necessities to the same categories of luxuaries. However, the relations are not the same for all categories.
     - The price of expensive accommodations can be an indicator of the cost of luxuaries in general.
 
-## Conclusion TODO
- A brief paragraph that highlights your key results and what you learned from doing this project.
+## Conclusion 
+
+Our group has concluded that Kelowna is typically a more expensive city in comparison to other places in Canada. The price of food and transportation does not indicate the overall cost of living and cheaper transportation does not suggest a higher salary. We found that real estate in Kelowna tends to be moderately expensive, and that it is more afforadble to live inside the city in Canada. Finally, it was discovered that high-end resources can equate to the overall cost of luxury products.
