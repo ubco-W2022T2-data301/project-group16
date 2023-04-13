@@ -4,4 +4,4 @@
 
 ## Contracted Grade
 
-For this project, we agree to contract for an **A**.
+For this project, we agree to contract for an **A+**.
