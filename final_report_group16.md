@@ -5,15 +5,20 @@ Our group examined the global cost of living. Within our analysis, we wished to 
 ## **Exploratory Data Analysis**
 Here is a summary of the highlights of our group's EDAs:
 
-- In Robert's analysis he used a variety of plots although primarily relying on facet grids to show multiple histograms based on the cost of living indexes and scatter plots to determine where cities rank in terms of affordability. This made it clear to see the distribution of cities ranked according to their indexes. 
+- In **Robert's** exploratory data analysis he started by analysing the missing data in the data set and visualized where in the world the good quality data exists along with a correlation heatmap and did some basic scatter plots with some linear regression.
 
-- For Oliver's analysis he used barplots to compare multiple cities and their affordability ratios and percentage salaries. Using these plots, he was able to determine which cities were considered affordable, moderate, and expensive in Canada.
+![data map](images/RYplot3.png)
+![heatmap](images/RYplot6.png)
 
-- In Ken's analysis he utilized...TODO
+
+- For **Oliver's** analysis he used barplots to compare multiple cities and their affordability ratios and percentage salaries. Using these plots, he was able to determine which cities were considered affordable, moderate, and expensive in Canada.
+
+- In **Ken's** analysis he utilized...TODO
 
 ## Research Question 1: and Results: *How livable is it in Kelowna compared to other cities globally?*
 
-### Analysis done by **Robert Yacovelli** [here!](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_yacovelli.ipynb)
+### Analysis done by **Robert Yacovelli** [here.](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_yacovelli.ipynb)
+In **Robert's** analysis he used a variety of plots although primarily relying on facet grids to show multiple histograms based on the cost of living indexes and scatter plots to determine where cities rank in terms of affordability. This made it clear to see the distribution of cities ranked according to their indexes.
 
 ### **1.1:**  *How does the cost of necessities, such as food items, transportation, and shelter vary across different cities as compared to Kelowna, serving as the baseline?*
 
