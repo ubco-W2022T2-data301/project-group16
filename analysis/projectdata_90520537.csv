@@ -1,4 +1,4 @@
-,city,country,food_l,drinks_l,transportation_l,accomodation_l,entertainment_l,Net_Salary,province_name,population,density,general_l
+,city,country,food_l,drinks_l,transportation_l,accommodation_l,entertainment_l,Net_Salary,province_name,population,density,general_l
 0,Toronto,Canada,37.796666666666674,4.45,11.382573333333333,5529.8375,52.589999999999996,3249.79,Ontario,5429524.0,4334.4,161.517615
 1,Vancouver,Canada,36.809999999999995,4.95375,12.127565000000002,5900.1224999999995,52.66571428571428,3474.89,British Columbia,2264823.0,5492.6,165.55825428571427
 2,Calgary,Canada,30.14,4.335000000000001,11.846986666666666,2365.185,52.32285714285714,3807.94,Alberta,1239220.0,1501.1,122.29669380952382
