@@ -28,7 +28,7 @@ The [Canada Cities Database](https://simplemaps.com/data/canada-cities) offers o
 
 - [**Oliver Medgyesi**](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_medgyesi.ipynb): I am a second-year Computer Science Major. I'm a dedicated and analytical individual with an interest in mathematics and programming. I try to continuously expand my knowledge and I enjoy learning new things.
 
-- [**Kenta Selim Ishdia**](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_yacovelli.ipynb): I am a third year exchange student from a university in Japan. I'm studying data science there. I like both math and programming, but recently I started statistics and really have fun learning it.
+- [**Kenta Selim Ishida**](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_ishida.ipynb): I am a third year exchange student from a university in Japan. I'm studying data science there. I like both math and programming, but recently I started statistics and really have fun learning it.
 
 ## Tableau Dashboard Images
 <img src="images/DashboardRobert.png"/>
