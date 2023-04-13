@@ -149,4 +149,4 @@ The most bottom raw dispicts the correlations that I wanted. Obviously, price of
 
 ## Conclusion 
 
-Our group has concluded that Kelowna is typically a more expensive city in comparison to other places in Canada. The price of food and transportation does not indicate the overall cost of living and cheaper transportation does not suggest a higher salary. We found that real estate in Kelowna tends to be moderately expensive, and that it is more afforadble to live inside the city in Canada. Finally, it was discovered that high-end resources can equate to the overall cost of luxury products.
+Our group has concluded that Kelowna is typically a more expensive city in comparison to other places in Canada. The price of food and transportation does not indicate the overall cost of living and cheaper transportation does not suggest a higher salary. We found that real estate in Kelowna tends to be moderately expensive, and that it is more affordable to live inside city centers in Canada. Finally, it was discovered that high-end resources can equate to the overall cost of luxury products.
