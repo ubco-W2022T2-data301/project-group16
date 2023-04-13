@@ -4,7 +4,10 @@
 
 Our group will be examining the economic topic of the cost of living. With our analysis, we wish to understand the current cost to live locally in Kelowna and around the world. Moreover, due to current record-high inflation levels affecting households and individuals more than ever, we hope to examine both the necessities and luxuries of living and establish connections and relationships to find out where consumers are feeling the sting the most. That being said, we think this is an important topic to discuss as both individuals and firms can benefit by planning their finances accordingly which will lead to fewer surprises when it comes time to pay for goods and services. 
 
+  <img align="right" src="images/coins-g118f2fe8b_1920.jpg" height="200" width="350"  />
+
 In terms of specific questions, we would like to know just how affordable it is to live in Kelowna, British Columbia, Canada compared to other cities from around the world, by examining necessities such as food shelter and transportation. We also wish to analyze the cost of luxuries and determine if there are any countries where some items cost significantly more for any reasons such as potential tariffs or trade-related reasons. Overall, we aim to provide a competent analysis of the global cost of living. 
+
 
 ## Our Dataset
 
@@ -21,24 +24,26 @@ The [Canada Cities Database](https://simplemaps.com/data/canada-cities) offers o
 
 ## Team Members
 
-- **Robert Yacovelli**: I am a second-year DATA Major. I am interested in Economic topics and I enjoy learning new ways to communicate through numbers and eye-catching, informative visuals.
+- [**Robert Yacovelli**](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_yacovelli.ipynb): I am a second-year DATA Major. I am interested in Economic topics and I enjoy learning new ways to communicate through numbers and eye-catching, informative visuals.
 
-- **Oliver Medgyesi**: I am a second-year Computer Science Major. I'm a dedicated and analytical individual with an interest in mathematics and programming. I try to continuously expand my knowledge and I enjoy learning new things.
+- [**Oliver Medgyesi**](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_medgyesi.ipynb): I am a second-year Computer Science Major. I'm a dedicated and analytical individual with an interest in mathematics and programming. I try to continuously expand my knowledge and I enjoy learning new things.
 
-- **Kenta Selim Ishdia**: I am a third year exchange student from a university in Japan. I'm studying data science there. I like both math and programming, but recently I started statistics and really have fun learning it.
+- [**Kenta Selim Ishdia**](https://github.com/ubco-W2022T2-data301/project-group16/blob/main/analysis/analysis_yacovelli.ipynb): I am a third year exchange student from a university in Japan. I'm studying data science there. I like both math and programming, but recently I started statistics and really have fun learning it.
 
-## Images
+## Tableau Dashboard Images
 <img src="images/DashboardRobert.png"/>
 <img src ="images/OliverDashboard.png"/>
-<img src="images/coins-g118f2fe8b_1920.jpg" width="500" height="240" />
 
-[source](https://pixabay.com/photos/coins-calculator-budget-1015125/)
+
+
 
 ## References
 
 >[Global Cost of Living Dataset - Kaggle](https://www.kaggle.com/datasets/mvieira101/global-cost-of-living)
 
 >[Canada Cities Database - simple maps](https://simplemaps.com/data/canada-cities)
+
+>[Calculator Potato photo](https://pixabay.com/photos/coins-calculator-budget-1015125/)
 
 
 
